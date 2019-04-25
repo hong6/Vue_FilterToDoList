@@ -1,7 +1,7 @@
 # Vue Filter To do list
 
 ## About
-This is an extremely simple application written with Vue.js. 
+This is a simple application written with Vue.js. 
 
 ## Installation
 `npm install vue` or Vue can be included as a script tag at the end of the application's HTML
