@@ -4,7 +4,7 @@
 This is a simple application written with Vue.js. 
 
 ## Installation
-`npm install vue` or Vue can be included as a script tag at the end of the application's HTML
+`npm install vue` or Vue can be included as a script tag at the end of the application's HTML.
 The application does not require any installation, dependent libraries, or Node.
 To run the app, simple clone this repository, then serve the main directory with your server of choice. 
 For example, to run this application with Node installed:
